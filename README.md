@@ -25,7 +25,7 @@ ANN threshold	Precision	Recall	F1	Missed failures	False alarms
 0.5 (default)	0.278	0.853	0.419	10	151
 0.87 (tuned)	0.542	0.765	0.634	16	44
 
-Show Image
+
 
 Key findings
 
